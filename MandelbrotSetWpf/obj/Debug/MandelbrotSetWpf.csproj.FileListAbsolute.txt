@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWpf\MandelbrotSetWpf\obj\Debug\MandelbrotSetWpf.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWpf\MandelbrotSetWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWpf\MandelbrotSetWpf\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWpf\MandelbrotSetWpf\obj\Debug\MandelbrotSetWpf_MarkupCompile.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWpf\MandelbrotSetWpf\obj\Debug\MandelbrotSetWpf_MarkupCompile.lref
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWpf\MandelbrotSetWpf\bin\Debug\MandelbrotSetWpf.exe.config
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWpf\MandelbrotSetWpf\bin\Debug\MandelbrotSetWpf.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWpf\MandelbrotSetWpf\bin\Debug\MandelbrotSetWpf.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWpf\MandelbrotSetWpf\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWpf\MandelbrotSetWpf\obj\Debug\MandelbrotSetWpf.g.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWpf\MandelbrotSetWpf\obj\Debug\MandelbrotSetWpf.Properties.Resources.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWpf\MandelbrotSetWpf\obj\Debug\MandelbrotSetWpf.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWpf\MandelbrotSetWpf\obj\Debug\MandelbrotSetWpf.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWpf\MandelbrotSetWpf\obj\Debug\MandelbrotSetWpf.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWpf\MandelbrotSetWpf\obj\Debug\MandelbrotSetWpf.pdb
